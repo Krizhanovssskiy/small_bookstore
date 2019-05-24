@@ -1,0 +1,11 @@
+.error-indicator {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-indicator img {
+  width: 100px;
+}

@@ -1,0 +1,17 @@
+.shoping-cart-table {
+  color: black;
+}
+.shoping-cart-table table {
+  width: 100%;
+}
+
+.shoping-cart-table .total {
+  text-align: right;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.shoping-cart-table button {
+  margin-left: 5px;
+  margin-top: 5px;
+}
